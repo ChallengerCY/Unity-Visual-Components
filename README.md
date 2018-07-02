@@ -11,8 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sliced 使用3*3分割sprite，使得Sprite的边缘部分不会拉伸，只有中间区域会被拉伸。 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tiled-平铺Sprite。 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filled - 和Simple相同的方式展现Sprite，可以通过比例填充来显示Sprite。<br>
-Set Native Size选项用于当Image Type为Simple或者Filled选项模式下，将Image重置为和Sprite一样的大小。
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Set Native Size选项用于当Image Type为Simple或者Filled选项模式下，将Image重置为和Sprite一样的大小。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Images资源可以通过"Texture Type"选项中的Sprite( 2D / UI)设置成UI sprites。与老的GUI sprites 相比，Sprites有额外的导入设置，最大的区别是添加了Sprite editor。Sprite editor提供了9-slicing 选项，可以将图片分成九个区域，这样调整Sprites之后，除了中心以外其他部位不会发生变化。
 
 **Raw Image**
